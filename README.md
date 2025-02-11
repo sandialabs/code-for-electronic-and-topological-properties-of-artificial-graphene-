@@ -1,1 +1,1 @@
-Single . file that is straighforward to execute with Matlab.
+Single . file that is straighforward to execute within Matlab.
